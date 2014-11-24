@@ -5,3 +5,6 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 - Social login / oAuth
   - [auth.io] (https://oauth.io/) Free
   - [auth0.com] (https://auth0.com/) Free until 100 users
+
+- Unit testing
+  - [Article] (http://bradb.net/unit-testing-with-the-ionic-framework/)
