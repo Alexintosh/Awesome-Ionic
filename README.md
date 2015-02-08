@@ -62,6 +62,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
 	- [Making a Lock Pattern Login](http://devdactic.com/lock-pattern-login-ionic/)
 	- [Upload Files To A Remote Server](https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/)
+	- [How to play audio](https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
