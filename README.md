@@ -50,13 +50,13 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
-	-[Syncing Data With Firebase](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/)
+	- [Syncing Data With Firebase](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/)
 
 - Customization
-	-[Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
+	- [Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
 
 - Tutorials
-	[ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
+	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
