@@ -17,6 +17,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 
 - Tools
 	- [Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility
+	- [Ionic box](https://github.com/driftyco/ionic-box) - Vagrant box for ionic
 	- [Ionicons](http://ionicons.com/) - The premium icon font for Ionic
 	- [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
 	- [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
@@ -43,11 +44,22 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Ionic Hacker News](https://github.com/driftyco/front-page)
 	- [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 	- [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
+	- [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
+	-[Syncing Data With Firebase](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/)
+
+- Customization
+	-[Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
+
+- Tutorials
+	[ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
+
+# Are you Italian?
+**Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)!
