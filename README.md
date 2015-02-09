@@ -69,6 +69,9 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Upload Files To A Remote Server](https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/)
 	- [How to play audio](https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/)
 	- [Using Factories and Web Services](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/)
+	- [Using Typescript with Ionic](https://weblogs.asp.net/soever/ionictypescript)
+	- [Custom URL Schemes](http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/)
+	- [Creating a Realtime Image Sharing App](http://www.htmlxprs.com/post/6/creating-a-realtime-image-sharing-app-with-ionic-and-socketio-tutorial)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
