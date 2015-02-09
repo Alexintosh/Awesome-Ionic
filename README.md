@@ -57,6 +57,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Accordion list](http://codepen.io/ionic/pen/uJkCz)
 	- [Material design](https://material.angularjs.org/)
 	- [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.
+	- [Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)
 
 - Tutorials
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
