@@ -22,6 +22,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
 	- [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
 	- [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
+	- [Sublime text Plugin] (https://github.com/imsingh/ionic-sublime-plugin)
 
 - Social login / oAuth
 	  - [auth.io] (https://oauth.io/) Free
@@ -33,11 +34,13 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
 
 - Unit testing
-  - [Article] (http://bradb.net/unit-testing-with-the-ionic-framework/)
+	- [Article] (http://bradb.net/unit-testing-with-the-ionic-framework/)
+	- [Karma UnitTest] (http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)
+
 
 - Database
-  - [SQLlite] (https://blog.nraboy.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
-  - [Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
+	- [SQLlite] (https://blog.nraboy.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
+	- [Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
 
 - Open source apps
 	- [Belgian Beer Explorer] (http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
@@ -51,6 +54,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
 	- [Syncing Data With Firebase](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/)
+	- [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial
 
 - Customization
 	- [Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
@@ -64,6 +68,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Making a Lock Pattern Login](http://devdactic.com/lock-pattern-login-ionic/)
 	- [Upload Files To A Remote Server](https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/)
 	- [How to play audio](https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/)
+	- [Using Factories and Web Services](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
