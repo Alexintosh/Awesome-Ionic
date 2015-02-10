@@ -50,6 +50,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
+	- [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
 
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
