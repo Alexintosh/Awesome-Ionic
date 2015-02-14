@@ -77,6 +77,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
 	- [Minifying source code](http://ionicframework.com/blog/minifying-your-source-code/)
+	- [Icons Subway](https://github.com/pixle/subway)
 
 # Are you Italian?
 **Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)!
