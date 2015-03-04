@@ -63,6 +63,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Material design](https://material.angularjs.org/)
 	- [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.
 	- [Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)
+	- [Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)
 
 - Tutorials
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
@@ -73,6 +74,8 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Using Typescript with Ionic](https://weblogs.asp.net/soever/ionictypescript)
 	- [Custom URL Schemes](http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/)
 	- [Creating a Realtime Image Sharing App](http://www.htmlxprs.com/post/6/creating-a-realtime-image-sharing-app-with-ionic-and-socketio-tutorial)
+	- [Let Your Ionic App Move With Move.js] (https://www.youtube.com/watch?v=4UbAC8PEQHY)
+	- [Making a Signature Drawpad] (https://www.youtube.com/watch?v=KpBEyvGA0OE)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
