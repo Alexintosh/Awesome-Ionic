@@ -58,9 +58,11 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 	- [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial
 
 - Customization
+	- [Ionic material] (https://github.com/zachsoft/Ionic-Material)
 	- [Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
 	- [Accordion list](http://codepen.io/ionic/pen/uJkCz)
 	- [Material design](https://material.angularjs.org/)
+	- [Angular Material codepen example] (http://codepen.io/itamarCohen/pen/gbgxaJ)
 	- [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.
 	- [Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)
 	- [Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)
