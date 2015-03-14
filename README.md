@@ -1,5 +1,5 @@
 #Awesome Ionic
-A curated list of amazingly awesome Ionic libraries, resources and solutions.
+A curated list of awesome Ionic libraries, resources and solutions.
 
 ## Table of Contents
 
@@ -36,6 +36,7 @@ A curated list of amazingly awesome Ionic libraries, resources and solutions.
 - Unit testing
 	- [Article] (http://bradb.net/unit-testing-with-the-ionic-framework/)
 	- [Karma UnitTest] (http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)
+	- [Appium] (http://appium.io/) an open source test automation framework
 
 
 - Database
