@@ -52,6 +52,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 	- [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
+	- [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
 
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
