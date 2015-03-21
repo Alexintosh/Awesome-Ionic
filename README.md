@@ -67,6 +67,8 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.
 	- [Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)
 	- [Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)
+	- [Ionic Tabbed Slidebox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox)
+	- [Ionic directive for a location dropdown that utilizes google maps](https://github.com/israelidanny/ion-google-place)
 
 - Tutorials
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
