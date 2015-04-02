@@ -84,6 +84,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Let Your Ionic App Move With Move.js] (https://www.youtube.com/watch?v=4UbAC8PEQHY)
 	- [Making a Signature Drawpad] (https://www.youtube.com/watch?v=KpBEyvGA0OE)
 	- [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps] (https://thinkster.io/ionic-framework-tutorial/)
+	- [Production ready apps with Ionic Framework](https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
