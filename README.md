@@ -85,6 +85,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Making a Signature Drawpad] (https://www.youtube.com/watch?v=KpBEyvGA0OE)
 	- [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps] (https://thinkster.io/ionic-framework-tutorial/)
 	- [Production ready apps with Ionic Framework](https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework)
+	- [Preload images in Ionic using $ImageCacheFactory](http://mcgivery.com/preload-images-ionic/?utm_content=bufferf9a09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
