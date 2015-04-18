@@ -3,7 +3,6 @@ A curated list of awesome Ionic libraries, resources and solutions.
 
 ## Table of Contents
 
-
 - General
 	- [Official Website](http://ionicframework.com)
 	- [Documents](http://ionicframework.com/docs/)
@@ -22,34 +21,34 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
 	- [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
 	- [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
-	- [Sublime text Plugin] (https://github.com/imsingh/ionic-sublime-plugin)
+	- [Sublime text Plugin](https://github.com/imsingh/ionic-sublime-plugin)
 
 - Social login / oAuth
-	  - [auth.io] (https://oauth.io/) Free
-	  - [auth0.com] (https://auth0.com/) Free until 100 users
-	  - [Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)
+	- [auth.io](https://oauth.io/) Free
+	- [auth0.com](https://auth0.com/) Free until 100 users
+	- [Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)
 
 - Push Notifications
 	- [Sample App](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)
 	- [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
 
 - Unit testing
-	- [Article] (http://bradb.net/unit-testing-with-the-ionic-framework/)
-	- [Karma UnitTest] (http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)
-	- [Appium] (http://appium.io/) an open source test automation framework
-
+	- [Article](http://bradb.net/unit-testing-with-the-ionic-framework/)
+	- [Karma UnitTest](http://forum.ionicframework.com/t/ionic-and-karma-unittest/8799)
+	- [Appium](http://appium.io/) an open source test automation framework
 
 - Database
-	- [SQLlite] (https://blog.nraboy.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
+	- [SQLlite](https://blog.nraboy.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
 	- [Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
 
 - Open source apps
-	- [Belgian Beer Explorer] (http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
+	- [Belgian Beer Explorer](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
 	- [Ionic Hacker News](https://github.com/driftyco/front-page)
 	- [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 	- [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
 	- [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 	- [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
+	- [SalooN](https://github.com/saloonapp/ionic-app) - Networking in conferences
 	
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
@@ -61,16 +60,17 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial
 
 - Customization
-	- [Ionic material] (https://github.com/zachsoft/Ionic-Material)
+	- [Ionic material](https://github.com/zachsoft/Ionic-Material)
 	- [Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
 	- [Accordion list](http://codepen.io/ionic/pen/uJkCz)
 	- [Material design](https://material.angularjs.org/)
-	- [Angular Material codepen example] (http://codepen.io/itamarCohen/pen/gbgxaJ)
+	- [Angular Material codepen example](http://codepen.io/itamarCohen/pen/gbgxaJ)
 	- [autoListDivider](https://github.com/andrewmcgivery/ionic-ion-autoListDivider) - automatically adding in list dividers for an ng-repeat.
-	- [Tinder style swipe Cards] (http://devdactic.com/optimize-tinder-cards/)
+	- [Tinder style swipe Cards](http://devdactic.com/optimize-tinder-cards/)
 	- [Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)
 	- [Ionic Tabbed Slidebox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox)
 	- [Ionic directive for a location dropdown that utilizes google maps](https://github.com/israelidanny/ion-google-place)
+	- [Sticky header](http://www.aliok.com.tr/projects/2015-04-17-ion-affix.html)
 
 - Tutorials
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
@@ -81,11 +81,16 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Using Typescript with Ionic](https://weblogs.asp.net/soever/ionictypescript)
 	- [Custom URL Schemes](http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/)
 	- [Creating a Realtime Image Sharing App](http://www.htmlxprs.com/post/6/creating-a-realtime-image-sharing-app-with-ionic-and-socketio-tutorial)
-	- [Let Your Ionic App Move With Move.js] (https://www.youtube.com/watch?v=4UbAC8PEQHY)
-	- [Making a Signature Drawpad] (https://www.youtube.com/watch?v=KpBEyvGA0OE)
-	- [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps] (https://thinkster.io/ionic-framework-tutorial/)
+	- [Let Your Ionic App Move With Move.js](https://www.youtube.com/watch?v=4UbAC8PEQHY)
+	- [Making a Signature Drawpad](https://www.youtube.com/watch?v=KpBEyvGA0OE)
+	- [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps](https://thinkster.io/ionic-framework-tutorial/)
 	- [Production ready apps with Ionic Framework](https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework)
 	- [Preload images in Ionic using $ImageCacheFactory](http://mcgivery.com/preload-images-ionic/?utm_content=bufferf9a09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+- Mobile UI inspiration
+	- [mobile-patterns.com](http://www.mobile-patterns.com/)
+	- [pttrns.com](http://www.pttrns.com/) (on [pinterest](http://www.pinterest.com/source/pttrns.com/))
+	- [mycolorscreen](http://mycolorscreen.com/)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
