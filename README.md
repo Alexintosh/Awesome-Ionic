@@ -43,6 +43,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [SQLlite] (https://blog.nraboy.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
 	- [Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
 
+- Components
+	- [Date picker](https://github.com/rajeshwarpatlolla/ionic-datepicker)
+
 - Open source apps
 	- [Belgian Beer Explorer] (http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-angularjs-and-ionic/)
 	- [Ionic Hacker News](https://github.com/driftyco/front-page)
