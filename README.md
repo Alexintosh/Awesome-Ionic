@@ -62,7 +62,8 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
 	- [Syncing Data With Firebase](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/)
 	- [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial
-	- [Parse Sample App](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - using [angular-parse lib](https://github.com/jimrhoskins/angular-parse) 
+	- [Parse Sample App](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - using [angular-parse lib](https://github.com/jimrhoskins/angular-parse)
+ 	- [Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App) - sample todo list app storing data in windows azure
 
 - Customization
 	- [Ionic material] (https://github.com/zachsoft/Ionic-Material)
