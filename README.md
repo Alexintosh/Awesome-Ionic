@@ -75,6 +75,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Move.js CSS3 Animation framework](https://github.com/visionmedia/move.js)
 	- [Ionic Tabbed Slidebox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox)
 	- [Ionic directive for a location dropdown that utilizes google maps](https://github.com/israelidanny/ion-google-place)
+	- [32 Ionic Modal Animations](https://github.com/kevincobain2000/ionic-animated-modal)
 
 - Tutorials
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
