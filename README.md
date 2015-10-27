@@ -65,6 +65,10 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Parse Sample App](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - using [angular-parse lib](https://github.com/jimrhoskins/angular-parse)
  	- [Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App) - sample todo list app storing data in windows azure
 
+- Cordova plugins you should use
+	- [Universal URL / Deep linking] (https://github.com/nordnet/cordova-universal-links-plugin)
+	- [Custom URL scheme] (https://github.com/EddyVerbruggen/Custom-URL-scheme)
+
 - Customization
 	- [Ionic material] (https://github.com/zachsoft/Ionic-Material)
 	- [Header that shrinks](https://github.com/driftyco/ionic-ion-header-shrink)
