@@ -57,6 +57,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 	- [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
+	- [learning ionic](http://www.amazon.it/Learning-Ionic-Arvind-Ravulavaru/dp/1783552603/ref=sr_1_1?ie=UTF8&qid=1458563232&sr=8-1&keywords=Learning+Ionic)
+	- [Ionic Framework By Example](http://www.amazon.it/Ionic-Framework-Example-Sani-Yusuf-ebook/dp/B01AJST0W6/ref=sr_1_1?ie=UTF8&qid=1458563315&sr=8-1&keywords=Ionic+Framework+By+Example)
+	- [Getting Started with Ionic](http://www.amazon.it/Getting-Started-Ionic-Rahat-Khanna-ebook/dp/B016MWRF16/ref=sr_1_1?ie=UTF8&qid=1458563408&sr=8-1&keywords=Getting+Started+with+Ionic)
 
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
