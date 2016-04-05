@@ -40,7 +40,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 
 
 - Database
-	- [SQLlite] (https://blog.nraboy.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
+	- [SQLlite] (https://www.thepolyglotdeveloper.com/2015/01/deploy-ionic-framework-app-pre-filled-sqlite-db/)
 	- [Sync Data Using PouchDB](http://devgirl.org/2014/12/30/sync-data-using-pouchdb-in-your-ionic-framework-app/)
 
 - Components
@@ -53,14 +53,14 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
 	- [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 	- [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
-	
+
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 	- [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
 
 - Backend as a Service
 	- [Firebase Example](http://www.sitepoint.com/creating-firebase-powered-end-end-ionic-application/)
-	- [Syncing Data With Firebase](https://blog.nraboy.com/2014/12/syncing-data-firebase-using-ionic-framework/)
+	- [Syncing Data With Firebase](https://www.thepolyglotdeveloper.com/2014/12/syncing-data-firebase-using-ionic-framework/)
 	- [Parse REST API tutorial](http://www.htmlxprs.com/post/12/tutorial-on-using-parse-rest-api-and-ionic-framework-together) - Parse tutorial
 	- [Parse Sample App](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - using [angular-parse lib](https://github.com/jimrhoskins/angular-parse)
  	- [Windows Azure Mobile Services Backend](https://github.com/aidancasey/Azure-Ionic-App) - sample todo list app storing data in windows azure
@@ -85,8 +85,8 @@ A curated list of awesome Ionic libraries, resources and solutions.
 - Tutorials
 	- [ccoenraets ionic tutorials](http://ccoenraets.github.io/ionic-tutorial/index.html)
 	- [Making a Lock Pattern Login](http://devdactic.com/lock-pattern-login-ionic/)
-	- [Upload Files To A Remote Server](https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/)
-	- [How to play audio](https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/)
+	- [Upload Files To A Remote Server](https://www.thepolyglotdeveloper.com/2015/01/upload-files-remote-server-using-ionic-framework/)
+	- [How to play audio](https://www.thepolyglotdeveloper.com/2014/11/playing-audio-android-ios-ionicframework-app/)
 	- [Using Factories and Web Services](http://mcgivery.com/ionic-using-factories-and-web-services-for-dynamic-data/)
 	- [Using Typescript with Ionic](https://weblogs.asp.net/soever/ionictypescript)
 	- [Custom URL Schemes](http://mcgivery.com/using-custom-url-schemes-ionic-framework-app/)
