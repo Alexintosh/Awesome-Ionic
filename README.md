@@ -29,6 +29,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	  - [auth0.com] (https://auth0.com/) Free until 100 users
 	  - [Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)
 
+- Authentication
+      - [Satellizer] (https://github.com/sahat/satellizer) Token-based AngularJS Authentication
+
 - Push Notifications
 	- [Sample App](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)
 	- [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
