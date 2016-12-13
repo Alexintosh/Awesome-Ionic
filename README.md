@@ -35,6 +35,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 - Push Notifications
 	- [Sample App](http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/)
 	- [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
+	- [Ionic 2 Push Notification Sample App](https://github.com/aggarwalankush/ionic2-push-base)
 
 - Unit testing
 	- [Article] (http://bradb.net/unit-testing-with-the-ionic-framework/)
@@ -56,6 +57,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
 	- [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 	- [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
+	- [Ionic 2 Weather App](https://github.com/aggarwalankush/ionic2-mosum)
 
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
@@ -105,6 +107,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Production ready apps with Ionic Framework](https://www.airpair.com/ionic-framework/posts/production-ready-apps-with-ionic-framework)
 	- [Preload images in Ionic using $ImageCacheFactory](http://mcgivery.com/preload-images-ionic/?utm_content=bufferf9a09&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 	- [Build your own chat app](http://melvin0008.github.io/blog/ionic-socketio-chat/)
+	- [Ionic 2 Push Notification](https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59)
+	- [FCM Setup for Android Push Notification](https://medium.com/@ankushaggarwal/gcm-setup-for-android-push-notifications-656cfdd8adbd)
+	- [APNS Setup for iOS Push Notification](https://medium.com/@ankushaggarwal/generate-apns-certificate-for-ios-push-notifications-85e4a917d522)
 
 - Misc
 	- [Internationalization](http://mcgivery.com/internationalization-of-an-ionic-app-multilanguage-support/)
