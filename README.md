@@ -22,7 +22,9 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
 	- [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
 	- [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
+	- [Generator-M-Ionic](https://github.com/mwaylabs/generator-m-ionic) - Another Yeoman generator for Ionic
 	- [Sublime text Plugin] (https://github.com/imsingh/ionic-sublime-plugin)
+	- [Atom Snippet Plugin](https://atom.io/packages/ionic-framework-snippets)
 
 - Social login / oAuth
 	  - [auth.io] (https://oauth.io/) Free
