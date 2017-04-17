@@ -1,4 +1,4 @@
-#Awesome Ionic
+# Awesome Ionic
 A curated list of awesome Ionic libraries, resources and solutions.
 
 ## Table of Contents
