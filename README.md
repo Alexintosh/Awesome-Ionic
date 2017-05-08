@@ -62,6 +62,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Ionic 2 Weather App](https://github.com/aggarwalankush/ionic2-mosum)
 
 - Books
+	- [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 	- [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
 	- [learning ionic](http://www.amazon.it/Learning-Ionic-Arvind-Ravulavaru/dp/1783552603/ref=sr_1_1?ie=UTF8&qid=1458563232&sr=8-1&keywords=Learning+Ionic)
