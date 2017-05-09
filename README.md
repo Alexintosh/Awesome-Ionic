@@ -15,26 +15,26 @@ Are you looking for ionic 1 resouces? [Click here](https://github.com/Alexintosh
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 
 #### Awesome Demos
-* [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie)
+* [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
 #### Tutorials
-* [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
-* [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)
-* [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)
-* [A Simple Guide to Navigation in Ionic 2](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
-* [10 Minutes with Ionic 2: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/)
-* [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
-* [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
-* [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
-* [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
-* [Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
-* [Understanding Ionic 2: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/)
-* [How to Manipulate Data in Ionic 2: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
-* [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/)
-* [Filtering, Mapping, and Reducing Arrays in Ionic 2](https://www.youtube.com/watch?v=A-4CLa05tp0)
+* [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/) ![](ionic.png)
+* [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/) ![](ionic.png)
+* [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/) ![](ionic.png)
+* [A Simple Guide to Navigation in Ionic 2](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/) ![](ionic.png)
+* [10 Minutes with Ionic 2: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/) ![](ionic.png)
+* [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
+* [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/) ![](ionic.png)
+* [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/) ![](ionic.png)
+* [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/) ![](ionic.png)
+* [Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/) ![](ionic.png)
+* [Understanding Ionic 2: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/) ![](ionic.png)
+* [How to Manipulate Data in Ionic 2: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/) ![](ionic.png)
+* [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/) ![](ionic.png)
+* [Filtering, Mapping, and Reducing Arrays in Ionic 2](https://www.youtube.com/watch?v=A-4CLa05tp0) ![](ionic.png)
 
 #### Animations
-* [Lottie Animation](https://github.com/chenqingspring/ng-lottie)
+* [Lottie Animation](https://github.com/chenqingspring/ng-lottie) ![](angular.png)
 
 #### Boilerplate/Demo Apps
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate) ![](ionic.png)
@@ -86,6 +86,9 @@ Are you looking for ionic 1 resouces? [Click here](https://github.com/Alexintosh
 * [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter) ![](ionic.png)
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
+
+#### Components
+A good list of awesome componets cab be found [here](https://github.com/fishme/awesome-ionic2-components) !
 
 # Are you Italian?
 **Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)!
