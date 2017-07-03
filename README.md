@@ -25,6 +25,7 @@ Complete projects
 * [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
 ### Boilerplate/Demo Apps
+* [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate) ![](ionic.png)
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ![](ionic.png)
 * [Update your App](https://github.com/NextFaze/ionic-manup) ![](ionic.png)
