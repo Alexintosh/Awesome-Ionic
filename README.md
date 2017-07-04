@@ -37,6 +37,7 @@ Complete projects
 * [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
 
 ### Open source apps
+* [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ![](ionic.png)
 * [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
 * [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ![](ionic.png)
