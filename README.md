@@ -37,6 +37,8 @@ Complete projects
 * [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
 
 ### Open source apps
+* [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
+* [Ionic Soundboard](https://github.com/Alexintosh/ionic3-soundboard)
 * [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ![](ionic.png)
 * [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
