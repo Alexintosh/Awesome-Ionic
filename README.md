@@ -59,6 +59,7 @@ Complete projects
 * [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter) ![](ionic.png)
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
+* [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
 
 Tutorials
 ======
