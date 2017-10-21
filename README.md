@@ -71,6 +71,7 @@ Tutorials
 * [Ionic 2 in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238) ![](ionic.png)
 * [Build a Custom Flash Card Component in Ionic 2](https://www.youtube.com/watch?v=BKFQKywl_GM) ![](ionic.png)
 * [Hacking CSS in Ionic 2](https://www.youtube.com/watch?v=sXFmkdhOEVc) ![](ionic.png)
+* [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
 
 ### Basics
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/) ![](ionic.png)
