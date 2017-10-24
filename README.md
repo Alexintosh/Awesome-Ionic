@@ -163,6 +163,7 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 * [Fab Toolbar](https://github.com/ekhmoi/fab-toolbar) ![](ionic.png)
 * [Multi Level Sidemenu](https://github.com/sebaferreras/Ionic2-MultiLevelSideMenu) ![](ionic.png)
 * [Popover Sidemenu](https://github.com/philipbrack/ionic2-menu-alternative-popover) ![](ionic.png)
+* [Drop down Title](https://github.com/Mohd-PH/ionic-drop-down-title) ![](ionic.png)
 
 ### Form / Input
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ![](ionic.png)
