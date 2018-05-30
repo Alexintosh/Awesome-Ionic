@@ -136,6 +136,7 @@ Tutorials
 * [Getting Familiar with Local Notifications in Ionic 2](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/) ![](ionic.png)
 * [Create a Nearby Places List with Google Maps in Ionic 2 – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/) ![](ionic.png)  ![](ionic.png)
 * [Create a Nearby Places List with Google Maps in Ionic 2 – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/) ![](ionic.png)
+* [Applozic Chat & In App Messaging](https://docs.applozic.com/docs/ionic-phonegap-cordova-chat-sdk) ![](ionic.png)
 
 #### Backend as a Service
 * [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
