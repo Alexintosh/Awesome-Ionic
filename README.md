@@ -19,6 +19,7 @@ General
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
+* [Ionic Templates](https://ionicthemes.com)
 
 Complete projects
 ======
@@ -27,6 +28,8 @@ Complete projects
 * [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
 ### Boilerplate/Demo Apps
+* [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
+* [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate) ![](ionic.png)
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ![](ionic.png)
@@ -38,7 +41,19 @@ Complete projects
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
 * [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
 
+
 ### Open source apps
+* [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
+* [Question & Answers Ionic 3 App](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
+* [Ionic 3 Image handling](https://github.com/ionicthemes/ionic3-image-handling) ![](ionic.png)
+* [Google Maps + Geolocation + Places](https://github.com/ionicthemes/ionic-3-google-maps-google-places-geolocation) ![](ionic.png)
+* [Ionic 3 Facebook Login](https://github.com/ionicthemes/ionic3-facebook-login) ![](ionic.png)
+* [Ionic 3 Google Login](https://github.com/ionicthemes/ionic3-google-login) ![](ionic.png)
+* [Ionic 3 Twitter Login](https://github.com/ionicthemes/ionic3-twitter-login) ![](ionic.png)
+* [Ionic 3 Admob Integration](https://github.com/ionicthemes/monetize-your-ionic-3-app-with-admob) ![](ionic.png)
+* [Ionic 3 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)
+* [Ionic 3 Upload Image to Firebase ](https://github.com/ionicthemes/ionic-firebase-image-upload) ![](ionic.png)
+* [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
 * [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
 * [Ionic Soundboard](https://github.com/Alexintosh/ionic3-soundboard)
 * [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
@@ -76,6 +91,9 @@ Tutorials
 * [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
 
 ### Basics
+* [Build a complete mobile app with Ionic 3](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
+* [Ionic Application Structure](https://ionicthemes.com/tutorials/about/ionic-application-structure) ![](ionic.png)
+* [Setup your development environment to build Ionic apps](https://ionicthemes.com/tutorials/about/setup-your-dev-environment-to-build-ionic-apps) ![](ionic.png)
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/) ![](ionic.png)
 * [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/) ![](ionic.png)
 * [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/) ![](ionic.png)
@@ -97,6 +115,8 @@ Tutorials
 * [A List of Common CSS Utility Attributes in Ionic 2](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/) ![](ionic.png)
 
 #### Components
+* [Ionic and Wordpress Integration using Wordpress REST API](https://ionicthemes.com/tutorials/about/ionic-wordpress-integration) ![](ionic.png)
+* [Add Google Maps, Places, and Geolocation to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic-2-google-maps-google-places-geolocation) ![](ionic.png)
 * [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/) ![](ionic.png)
 * [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/) ![](ionic.png)
 * [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/) ![](ionic.png)
@@ -105,6 +125,9 @@ Tutorials
 * [Build a Tap to Reveal Component in Ionic 2](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/) ![](ionic.png)
 
 #### Authentication
+* [Add Twitter Login to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic2-twitter-login) ![](ionic.png)
+* [Add Google Login to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic2-google-login) ![](ionic.png)
+* [Add Facebook Login to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic2-facebook-login) ![](ionic.png)
 * [Add Touch ID Authentication To An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/) ![](ionic.png)
 * [Successful OAuth Social Login with Firebase](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/) ![](ionic.png)
 * [Using An Oauth 2.0 Service Within An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/) ![](ionic.png)
@@ -147,6 +170,7 @@ Tutorials
 * [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2) ![](ionic.png)
 
 #### i18n & l10n
+* [Internationalize and Localize Your Ionic 3 App With Ng Translate for Angular 5](https://ionicthemes.com/tutorials/about/internationalize-and-localize-your-ionic2-app-with-ngtranslate) ![](ionic.png)
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/) ![](ionic.png)
 
 Tools
