@@ -56,6 +56,7 @@ Complete projects
 * [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
 * [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
 * [Ionic Soundboard](https://github.com/Alexintosh/ionic3-soundboard)
+* [Ionic Soundboard with remote sounds](https://github.com/rkalis/ionic-soundboard) ![](ionic.png)
 * [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ![](ionic.png)
 * [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
