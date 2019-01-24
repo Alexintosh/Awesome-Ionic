@@ -40,7 +40,7 @@ Complete projects
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ![](ionic.png)
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
 * [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
-
+* [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer) ![](ionic.png)
 
 ### Open source apps
 * [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
