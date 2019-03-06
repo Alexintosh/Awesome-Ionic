@@ -8,9 +8,9 @@ Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexinto
 
 General
 ======
-* [Official Website](http://ionicframework.com)
-* [Blog](http://blog.ionic.io/)
-* [Documentation](http://ionicframework.com/docs/v2/)
+* [Official Website](https://ionicframework.com/)
+* [Blog](https://blog.ionicframework.com/)
+* [Documentation](https://ionicframework.com/docs/)
 * [Ionic Native](https://github.com/driftyco/ionic-native/)
 * [Github Repository](https://github.com/driftyco/ionic)
 * [Showcase](http://showcase.ionicframework.com/)
@@ -19,15 +19,18 @@ General
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
-* [Ionic Templates](https://ionicthemes.com)
+* [Ionic Starter Apps](https://ionicthemes.com)
+* [Ionic Free Tutorials](https://ionicthemes.com/tutorials)
 
 Complete projects
 ======
 
 ### Awesome Demos
+* [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)[NEW]
 * [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
 ### Boilerplate/Demo Apps
+* [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app) ![](ionic.png) ![](pwa.png) [NEW]
 * [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
 * [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
@@ -43,15 +46,16 @@ Complete projects
 
 
 ### Open source apps
+* [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png)[NEW]
+* [Ionic 4 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)[NEW]
+* [Ionic 4 Facebook Login](https://github.com/ionicthemes/ionic-facebook-login) ![](ionic.png)[NEW]
+* [Ionic 4 Google Login](https://github.com/ionicthemes/ionic-google-login) ![](ionic.png)[NEW]
+* [Ionic 4 Twitter Login](https://github.com/ionicthemes/ionic-twitter-login) ![](ionic.png)[NEW]
 * [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
 * [Question & Answers Ionic 3 App](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 * [Ionic 3 Image handling](https://github.com/ionicthemes/ionic3-image-handling) ![](ionic.png)
 * [Google Maps + Geolocation + Places](https://github.com/ionicthemes/ionic-3-google-maps-google-places-geolocation) ![](ionic.png)
-* [Ionic 3 Facebook Login](https://github.com/ionicthemes/ionic3-facebook-login) ![](ionic.png)
-* [Ionic 3 Google Login](https://github.com/ionicthemes/ionic3-google-login) ![](ionic.png)
-* [Ionic 3 Twitter Login](https://github.com/ionicthemes/ionic3-twitter-login) ![](ionic.png)
 * [Ionic 3 Admob Integration](https://github.com/ionicthemes/monetize-your-ionic-3-app-with-admob) ![](ionic.png)
-* [Ionic 3 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)
 * [Ionic 3 Upload Image to Firebase ](https://github.com/ionicthemes/ionic-firebase-image-upload) ![](ionic.png)
 * [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
 * [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
@@ -126,9 +130,9 @@ Tutorials
 * [Build a Tap to Reveal Component in Ionic 2](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/) ![](ionic.png)
 
 #### Authentication
-* [Add Twitter Login to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic2-twitter-login) ![](ionic.png)
-* [Add Google Login to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic2-google-login) ![](ionic.png)
-* [Add Facebook Login to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic2-facebook-login) ![](ionic.png)
+* [Add Twitter Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-twitter-login) ![](ionic.png)
+* [Add Google Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-google-login) ![](ionic.png)
+* [Add Facebook Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-facebook-login) ![](ionic.png)
 * [Add Touch ID Authentication To An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/) ![](ionic.png)
 * [Successful OAuth Social Login with Firebase](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/) ![](ionic.png)
 * [Using An Oauth 2.0 Service Within An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/) ![](ionic.png)
