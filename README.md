@@ -51,6 +51,7 @@ Complete projects
 * [Ionic 4 Facebook Login](https://github.com/ionicthemes/ionic-facebook-login) ![](ionic.png)[NEW]
 * [Ionic 4 Google Login](https://github.com/ionicthemes/ionic-google-login) ![](ionic.png)[NEW]
 * [Ionic 4 Twitter Login](https://github.com/ionicthemes/ionic-twitter-login) ![](ionic.png)[NEW]
+* [Ionic 4 Manga reader](https://github.com/deissh/anibe.app) ![](ionic.png)[NEW]
 * [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
 * [Question & Answers Ionic 3 App](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 * [Ionic 3 Image handling](https://github.com/ionicthemes/ionic3-image-handling) ![](ionic.png)
