@@ -182,6 +182,7 @@ Tools
 ======
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode) ![](ionic.png)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2) ![](ionic.png)
+* [Ionic 4 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) ![](ionic.png)
 
 Components
 ======
@@ -189,6 +190,10 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 
 ### Animations
 * [Lottie Animation](https://github.com/chenqingspring/ng-lottie) ![](angular.png)
+* [Lottie Animation](https://github.com/fivethree-team/lottie) ![](angular.png)
+
+### UI Library
+* [Ionic 4 UI Component Library](https://github.com/fivethree-team/ionic-4-components) ![](ionic.png)
 
 ### Menu, Tabs
 * [Scrollabel Tabs](https://github.com/SinoThomas/Ionic2-ScrollableTabs) ![](ionic.png) 
