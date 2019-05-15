@@ -212,6 +212,7 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ![](angular.png) 
 * [Form Builder](https://github.com/rohitg7/ionic2-form-builder) ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ![](ionic.png)
+* [Selectable](https://github.com/eakoriakin/ionic-selectable) ![](ionic.png)
 
 #### Input - Date/Calendar
 * **Calendar**
