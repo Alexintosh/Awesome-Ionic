@@ -19,8 +19,9 @@ General
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
-* [Ionic Starter Apps](https://ionicthemes.com)
-* [Ionic Free Tutorials](https://ionicthemes.com/tutorials)
+* Ionic Starter Apps - [Source 1](https://ionicthemes.com) | [Source 2](https://enappd.com)
+* Ionic Free Tutorials - [Source 1](https://ionicthemes.com/tutorials) | [Source 2](https://enappd.com/blog)
+* [Free Starters](https://enappd.com/blog/ionic-4-free-starters-info/33)
 
 Complete projects
 ======
@@ -29,8 +30,21 @@ Complete projects
 * [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)[NEW]
 * [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
+### Ionic React Capacitor
+* [Ionic 4 React Full App Starter](https://store.enappd.com/product/ionic-react-full-app-capacitor/) ![](ionic.png) ![](v4.png)[Latest]
+
 ### Boilerplate/Demo Apps
 * [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app) ![](ionic.png) ![](pwa.png) [NEW]
+* [Ionic 4 Complete App and PWA Starter ](https://store.enappd.com/product/ionic-4-full-app/) ![](ionic.png) ![](pwa.png) ![](v4.png) [NEW]
+* [Ionic 4 Complete Taxi Booking Platform Starter ](https://store.enappd.com/product/taxi-booking-complete-platform/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Grocery Shopping Starter with Admin Panel ](https://store.enappd.com/product/ionic-4-grocery-complete-platform-app-and-admin-dashboard/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Tinder Starter ](https://store.enappd.com/product/dating-app-starter-ionic4-tinder-clone/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Spotify Starter ](https://store.enappd.com/product/ionic-4-spotify-app-starter/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Food Delivery App Starter ](https://store.enappd.com/product/ionic-4-food-ordering-app-starter/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Carpooling App Starter ](https://store.enappd.com/product/carpool-app-starter/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Payment Gateway Starter - Stripe, Paypal, Razorpay and Apple Pay ](https://store.enappd.com/product/ionic-4-full-payment-app-starter/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Google Vision Starter](https://store.enappd.com/product/ionic-4-google-vision-starter/) ![](ionic.png) ![](v4.jpg) [NEW]
+* [Ionic 4 Firebase Full App Starter](https://store.enappd.com/product/ionic-4-firebase-full-app-starter/) ![](ionic.png) ![](v4.jpg) [NEW]
 * [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
 * [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
@@ -52,6 +66,18 @@ Complete projects
 * [Ionic 4 Google Login](https://github.com/ionicthemes/ionic-google-login) ![](ionic.png)[NEW]
 * [Ionic 4 Twitter Login](https://github.com/ionicthemes/ionic-twitter-login) ![](ionic.png)[NEW]
 * [Ionic 4 Manga reader](https://github.com/deissh/anibe.app) ![](ionic.png)[NEW]
+* [Firebase push notifications in Ionic 4](https://github.com/enappd/ionic-4-push) ![](ionic.png) ![](v4.png) [NEW]
+* [Receive SMS automatically in Ionic 4](https://github.com/enappd/Ionic-4-sms-receive) ![](ionic.png) ![](v4.png) [NEW]
+* [Playing music in Ionic 4](https://github.com/enappd/ionic-4-music) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Stripe Payment Integration](https://github.com/enappd/ionic4-stripe) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 PayPal Payment Integration](https://github.com/enappd/ionic4-paypal) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Apple Pay Payment Integration](https://github.com/enappd/ionic4-applepay) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Razorpay Payment Integration](https://github.com/enappd/ionic4-razorpay) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Twitter login with Firebase](https://github.com/enappd/Ionic-4-Twitter-auth) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Facebook login with Firebase](https://github.com/enappd/ionic4-facebookAuth) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Google login with Firebase](https://github.com/enappd/Ionic-4-google-auth) ![](ionic.png) ![](v4.png) [NEW]
+* [Translation in Ionic 4 - Internationalization and localization](https://github.com/enappd/ionic4-i18n) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/) ![](ionic.png) ![](v4.png) [NEW]
 * [Wordpress Integration App](https://github.com/ionicthemes/ionic3-wordpress-integration) ![](ionic.png)
 * [Question & Answers Ionic 3 App](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 * [Ionic 3 Image handling](https://github.com/ionicthemes/ionic3-image-handling) ![](ionic.png)
@@ -96,7 +122,14 @@ Tutorials
 * [Hacking CSS in Ionic 2](https://www.youtube.com/watch?v=sXFmkdhOEVc) ![](ionic.png)
 * [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
 
-### Basics
+#### Basics
+* [Build a basic mobile app with Ionic 4](https://enappd.com/blog/how-to-create-an-ionic-4-app-for-beginners/13) ![](ionic.png) ![](v4.png)
+* [Read SMS in Ionic 4 apps](https://enappd.com/blog/automatically-read-sms-in-ionic-4-apps/42) ![](ionic.png) ![](v4.png)
+* [Geolocation, geocoding and reverse geocoding in Ionic 4](https://enappd.com/blog/using-geolocation-geocoding-and-reverse-geocoding-in-ionic-4/45) ![](ionic.png) ![](v4.png)
+* [Google Vision in Ionic 4 apps](https://enappd.com/blog/implement-google-vision-in-ionic-4/43) ![](ionic.png) ![](v4.png)
+* [RTL (right-to-left) layout in Ionic 4 apps](https://enappd.com/blog/rtl-right-to-left-use-in-ionic-4/50) ![](ionic.png) ![](v4.png)
+* [Push notifications in Ionic 4 apps](https://enappd.com/blog/implement-ionic-4-firebase-push/34) ![](ionic.png) ![](v4.png)
+* [Google Vision in Ionic 4 apps](https://enappd.com/blog/implement-google-vision-in-ionic-4/43) ![](ionic.png) ![](v4.png)
 * [Build a complete mobile app with Ionic 3](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 * [Ionic Application Structure](https://ionicthemes.com/tutorials/about/ionic-application-structure) ![](ionic.png)
 * [Setup your development environment to build Ionic apps](https://ionicthemes.com/tutorials/about/setup-your-dev-environment-to-build-ionic-apps) ![](ionic.png)
@@ -131,6 +164,11 @@ Tutorials
 * [Build a Tap to Reveal Component in Ionic 2](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/) ![](ionic.png)
 
 #### Authentication
+* [Twitter Login in Ionic 4 App using Firebase](https://enappd.com/blog/twitter-login-in-ionic-4-apps-using-firebase/24) ![](ionic.png) ![](v4.png)
+* [Facebook Login in Ionic 4 App using Firebase](https://enappd.com/blog/facebook-login-in-ionic-4-apps-using-firebase/25) ![](ionic.png) ![](v4.png)
+* [Google Login in Ionic 4 App using Firebase](https://enappd.com/blog/google-login-in-ionic-4-apps-using-firebase/39) ![](ionic.png) ![](v4.png)
+* [Anonymous Login in Ionic 4 App using Firebase](https://enappd.com/blog/firebase-anonymous-login-in-ionic-4/37) ![](ionic.png) ![](v4.png)
+* [Basic Email Login in Ionic 4 App using Firebase](https://enappd.com/blog/email-authentication-with-firebase-in-ionic-4/38) ![](ionic.png) ![](v4.png)
 * [Add Twitter Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-twitter-login) ![](ionic.png)
 * [Add Google Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-google-login) ![](ionic.png)
 * [Add Facebook Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-facebook-login) ![](ionic.png)
@@ -147,6 +185,8 @@ Tutorials
 * [Test Driven Development in Ionic 2: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/) ![](ionic.png)
 
 #### Ionic Native / Cordova Plugins
+* [Playing music in Ionic 4 apps](https://enappd.com/blog/spotify-like-music-in-ionic-4-apps/48) ![](ionic.png) ![](v4.png)
+* [How to implement health plugin - Pedometer in Ionic 4](https://enappd.com/blog/best-fitness-plugins-for-ionic-4-how-to-use-pedometer/15) ![](ionic.png) ![](v4.png)
 * [Using Cordova Plugins in Ionic 2 with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/) ![](ionic.png)
 * [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/) ![](ionic.png)
 * [10 Minutes with Ionic 2: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/) ![](ionic.png)
@@ -169,6 +209,12 @@ Tutorials
 * [Kommunicate Live Chat Plugin for Customer Support](https://docs.kommunicate.io/docs/cordova-installation.html) ![](ionic.png)
 
 
+#### Payment gateways
+* [Ionic 4 Stripe Payment Integration](https://enappd.com/blog/ionic-4-stripe-payment-integration-with-firebase-for-apps-and-pwa/17) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 PayPal Payment Integration](https://enappd.com/blog/ionic-4-paypal-payment-integration-for-apps-and-pwa/16) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Apple Pay Payment Integration](https://enappd.com/blog/how-to-integrate-apple-pay-in-ionic-4-apps/21) ![](ionic.png) ![](v4.png) [NEW]
+* [Ionic 4 Razorpay Payment Integration](https://enappd.com/blog/how-to-integrate-razorpay-in-ionic-4-apps-and-pwa/20) ![](ionic.png) ![](v4.png) [NEW]
+
 #### Backend as a Service
 * [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/) ![](ionic.png)
 * [Using Http to Fetch Remote Data from a Server in Ionic 2](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/) ![](ionic.png)
@@ -178,6 +224,7 @@ Tutorials
 * [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2) ![](ionic.png)
 
 #### i18n & l10n
+* [Internationalize and Localize Your Ionic 4 App](https://enappd.com/blog/how-to-translate-in-ionic-4-globalization-internationalization-and-localization/11) ![](ionic.png) ![](v4.png)
 * [Internationalize and Localize Your Ionic 3 App With Ng Translate for Angular 5](https://ionicthemes.com/tutorials/about/internationalize-and-localize-your-ionic2-app-with-ngtranslate) ![](ionic.png)
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/) ![](ionic.png)
 
