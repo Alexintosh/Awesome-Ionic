@@ -240,6 +240,7 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 * [Image Loader](https://github.com/zyramedia/ionic-image-loader) ![](ionic.png)
 * [Facebook Gallery](https://github.com/skyfloyd/ionic2-fb-gallery) ![](ionic.png)
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer) ![](ionic.png)
+* [Image Viewer (Ionic4)](https://github.com/SimonGolms/ngx-ionic-image-viewer) ![](ionic.png)
 * [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ![](ionic.png)
 * [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) ![](angular.png)
 
