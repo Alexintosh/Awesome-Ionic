@@ -2,9 +2,9 @@
 
 > A curated list of awesome Ionic libraries, resources and solutions.
 
-Are you looking for `Ionic 1` resouces? [Click here](https://github.com/Alexintosh/Awesome-Ionic/blob/master/IONIC1.md)
+Are you looking for `Ionic 1` resources? [Click here](https://github.com/Alexintosh/Awesome-Ionic/blob/master/IONIC1.md)
 
-Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexintosh/awesome-stencil)
+Are you looking for `Stencil` resources? [Click here](https://github.com/Alexintosh/awesome-stencil)
 
 General
 ======
@@ -83,6 +83,7 @@ Complete projects
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
 * [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
+* [Expense Tracker](https://github.com/dotnetdreamer/personal-expense-tracker) ![](pwa.png)
 
 Tutorials
 ======
