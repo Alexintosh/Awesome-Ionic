@@ -46,6 +46,7 @@ Complete projects
 * [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer) ![](ionic.png)
 
 ### Open source apps
+* [Ionic 5 PallasTV](https://github.com/ramfattah/PallasTV) ![](ionic.png)[NEW]
 * [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png)[NEW]
 * [Ionic 4 Forms and Validations](https://github.com/ionicthemes/forms-and-validations-in-ionic) ![](ionic.png)[NEW]
 * [Ionic 4 Facebook Login](https://github.com/ionicthemes/ionic-facebook-login) ![](ionic.png)[NEW]
