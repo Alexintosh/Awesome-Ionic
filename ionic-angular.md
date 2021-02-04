@@ -6,7 +6,7 @@
 
 ### Awesome Demos
 
-- [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)[NEW]
+- [Ionic 4 PWA Demo App](https://github.com/ionicthemes/progressive-web-apps-in-ionic4) ![](ionic.png) ![](pwa.png)
 - [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
 
 ### Boilerplate/Demo Apps
