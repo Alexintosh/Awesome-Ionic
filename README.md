@@ -1,6 +1,6 @@
 # Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
-> A curated list of awesome Ionic libraries, resources, and solutions.
+> A curated list of awesome Ionic libraries, resources, and solutions (Previous Version)
 
 Are you looking for `Ionic 1` resources? [Click here](https://github.com/Alexintosh/Awesome-Ionic/blob/master/IONIC1.md)
 
