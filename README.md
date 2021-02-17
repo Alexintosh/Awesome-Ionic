@@ -1,6 +1,6 @@
 # Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
-<div style="text-align:center"><img src="awesome-ionic.png" /></div>
+<p align="center"><img src="awesome-ionic.png" /></p>
 
 > A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework.
 
