@@ -7,12 +7,24 @@
 ### Awesome Demos
 
 ### Boilerplate/Demo Apps
+- [Transactions Tracking Template](https://ionicthemes.com/product/ionic4-full-starter-app) | [Demo](https://ionic-vue-mobile-template-01.netlify.app/)
+- [Food App Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-02) | [Demo](https://ionic-vue-mobile-template-02.netlify.app/)
+- [Car Leasing Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-03) | [Demo](https://ionic-vue-mobile-template-03.netlify.app/)
+- [Bank App Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-04) | [Demo](https://ionic-vue-mobile-template-04.netlify.app/)
+- [Conference Listing Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-05) | [Demo](https://ionic-vue-mobile-template-05.netlify.app/)
+- [Instagram Clone](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-06) | [Demo](https://ionic-vue-mobile-template-06.netlify.app/)
+- [Footwear Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-07) | [Demo](https://ionic-vue-mobile-template-07.netlify.app/)
+- [Google Authentication (for web and PWAs)](https://github.com/dlodeprojuicer/ionic-vue-google-oauth)
 
 ### Open source projects
 
 - [Ionic Vue](https://www.npmjs.com/package/@ionic/vue)
 
 # Tutorials
+
+#### Video Tutorials
+- [How To Create an Instagram Clone](https://www.youtube.com/watch?v=lnzcb_9vt30)
+- [Google Authentication (for web and PWAs)](https://www.youtube.com/watch?v=ji0WhGPZ8Fg)
 
 ### Video Courses
 
@@ -27,6 +39,7 @@
 ### Components
 
 ### Tools
+- [Ionic Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=dlodeprojuicer.ionicvuesnippets) - This extension adds ionic-vue snippets. Quickly add ionic-vue component code by simply typing iv. The iv prefix will show a range of snippets to choose from.
 
 ### Testing
 

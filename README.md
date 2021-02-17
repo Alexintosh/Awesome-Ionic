@@ -12,7 +12,7 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Ionic 1 (Angularjs)](IONIC1.md)
 - [Ionic Angular (2+)](ionic-angular.md)
 - [Ionic React](ionic-react.md)
-- [Ionic Vue]()
+- [Ionic Vue](ionic-vue.md)
 - [Capacitor](#capacitor)
 - [Built with Ionic](#built-with-ionic)
 - [Stencil](https://github.com/Alexintosh/awesome-stencil)
