@@ -14,12 +14,17 @@
 - [Conference Listing Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-05) | [Demo](https://ionic-vue-mobile-template-05.netlify.app/)
 - [Instagram Clone](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-06) | [Demo](https://ionic-vue-mobile-template-06.netlify.app/)
 - [Footwear Template](https://github.com/dlodeprojuicer/ionic-vue-mobile-template-07) | [Demo](https://ionic-vue-mobile-template-07.netlify.app/)
+- [Google Authentication (for web and PWAs)](https://github.com/dlodeprojuicer/ionic-vue-google-oauth)
 
 ### Open source projects
 
 - [Ionic Vue](https://www.npmjs.com/package/@ionic/vue)
 
 # Tutorials
+
+#### Video Tutorials
+- [How To Create an Instagram Clone](https://www.youtube.com/watch?v=lnzcb_9vt30)
+- [Google Authentication (for web and PWAs)](https://www.youtube.com/watch?v=ji0WhGPZ8Fg)
 
 ### Video Courses
 
