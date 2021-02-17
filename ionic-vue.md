@@ -10,9 +10,13 @@
 
 ### Open source projects
 
+- [Ionic Vue](https://www.npmjs.com/package/@ionic/vue)
+
 # Tutorials
 
 ### Video Courses
+
+- [Using Ionic Framework VueJS, Firebase & Vuex For Image Diary](https://www.udemy.com/course/using-ionic-framework-vuejs-firebase-vuex-for-image-diary/)
 
 ### Blogs and Articles
 

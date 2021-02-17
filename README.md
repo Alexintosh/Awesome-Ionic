@@ -1,5 +1,7 @@
 # Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
+<div style="text-align:center"><img src="awesome-ionic.png" /></div>
+
 > A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework.
 
 This repository is maintained by [Fikayo Adepoju](https://github.com/coderonfleek) and [Alessio Delmonti](https://github.com/Alexintosh). For discussions about PRs and contributions, contact Fikayo via DM on [twitter](https://twitter.com/coderonfleek).
@@ -12,6 +14,7 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Ionic React](ionic-react.md)
 - [Ionic Vue]()
 - [Capacitor](#capacitor)
+- [Built with Ionic](#built-with-ionic)
 - [Stencil](https://github.com/Alexintosh/awesome-stencil)
 
 # General
@@ -33,3 +36,15 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Ionic Free Tutorials](https://ionicthemes.com/tutorials)
 
 # Capacitor
+
+- [Official Website](https://capacitorjs.com/)
+- [Documentation](https://capacitorjs.com/docs)
+- [Capacitor Plugins](https://capacitorjs.com/docs/plugins)
+- [Blog](https://capacitorjs.com/blog)
+- [Forum](https://forum.ionicframework.com/c/capacitor)
+- [Github Project](https://github.com/ionic-team/capacitor)
+- [Twitter](https://twitter.com/capacitorjs)
+
+# Built With Ionic
+
+- [WhatsApp Clone](https://github.com/coderonfleek/whatsapp-clone)
