@@ -16,7 +16,7 @@
 
 ### Open source projects
 
-### Tutorials
+# Tutorials
 - [Ionic ReactJS YouTube Playlist](https://www.youtube.com/playlist?list=PL2PY2-9rsgl3OHIMYb1AzVG5wADUxOmUW)
 
 ### Video Courses
