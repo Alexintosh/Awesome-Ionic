@@ -7,16 +7,28 @@
 ### Awesome Demos
 
 - [WhatsApp Clone](https://github.com/coderonfleek/whatsapp-clone)
+- [E-commerce Template](https://ionicreacthub.com/ionic-react-ecommerce)
+- [Coffee Ordering App](https://ionicreacthub.com/ionic-ordering-app)
+- [Instagram Clone](https://ionicreacthub.com/ionic-instagram-clone)
+- [Banking App](https://ionicreacthub.com/ionic-react-banking-ui)
+- [Facebook Clone](https://ionicreacthub.com/ionic-facebook-clone)
+- [Marvel Characters App](https://ionicreacthub.com/ionic-react-marvel-ui)
 
 ### Boilerplate/Demo Apps
 
 - [Ionic React Conference App](https://github.com/ionic-team/ionic-react-conference-app)
 - [Next.js + Tailwind CSS + Ionic Framework + Capacitor Mobile Starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter)
 - [React.js + Redux.js Boilerplate](https://github.com/nirus/Ionic-React-Baseplate)
+- [Custom Item List](https://ionicreacthub.com/ionic-react-item-list)
+- [Profile UI](https://ionicreacthub.com/ionic-react-profile-ui)
+- [Ionic Storage UI](https://ionicreacthub.com/ionic-react-storage-ui)
+- [2-factor Auth UI](https://ionicreacthub.com/ionic-react-2fa-ui)
+- [Ionic Custom Tabs/Sidemenu](https://ionicreacthub.com/ionic-custom-tabs)
 
 ### Open source projects
 
 # Tutorials
+
 - [Ionic ReactJS YouTube Playlist](https://www.youtube.com/playlist?list=PL2PY2-9rsgl3OHIMYb1AzVG5wADUxOmUW)
 
 ### Video Courses
